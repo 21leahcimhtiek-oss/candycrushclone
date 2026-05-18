@@ -1,15 +1,36 @@
 {
   "name": "candycrushclone",
   "displayName": "Candy Crush Clone",
-  "description": "Android Candy Crush Clone Game from Aurora Market - Unity 3D Game",
+  "description": "Android Candy Crush Clone Game from Aurora Market - Unity 3D Game Part of the Aurora ecosystem with a no-key-first local setup.",
   "category": "mobile",
-  "stack": ["Unity", "Android"],
+  "stack": [
+    "Unity",
+    "Android"
+  ],
   "version": "1.0.0",
   "pricing": {
     "free": true,
     "plans": [
-      {"name": "Starter", "price": 9, "interval": "month", "features": ["Core features", "1 user", "Basic support"]},
-      {"name": "Pro", "price": 29, "interval": "month", "features": ["All Starter features", "Unlimited usage", "Priority support"]}
+      {
+        "name": "Starter",
+        "price": 9,
+        "interval": "month",
+        "features": [
+          "Core features",
+          "1 user",
+          "Basic support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": 29,
+        "interval": "month",
+        "features": [
+          "All Starter features",
+          "Unlimited usage",
+          "Priority support"
+        ]
+      }
     ]
   },
   "marketplace": {
@@ -26,3 +47,4 @@
     "last_updated": "2026-04-04"
   }
 }
+

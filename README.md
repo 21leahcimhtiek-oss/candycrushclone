@@ -42,3 +42,7 @@ https://auroramarket.org
 ---
 
 Built with ❤️ by Aurora Rayes LLC
+
+## Aurora ecosystem note
+This project is part of the Aurora ecosystem and follows a no-key-first local setup philosophy.
+
